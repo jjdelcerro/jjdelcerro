@@ -10,7 +10,7 @@ Actualmente estoy explorando la integración práctica y teórica de la IA en en
 
 Algunos proyectos públicos en esta línea son:
 
-*   **[Servidor MCP para gvSIG](ENLACE_A_TU_REPO)**: Una implementación del *Model Context Protocol* para conectar LLMs con aplicaciones Java/Swing de forma local y eficiente.
+*   **[Servidor MCP para gvSIG](https://github.com/jjdelcerro/io.github.jjdelcerro.aimcpserver)**: Una implementación del *Model Context Protocol* para conectar LLMs con aplicaciones Java/Swing de forma local y eficiente.
 *   **[Renderizador de diagramas con IA](https://github.com/jjdelcerro/io.github.jjdelcerro.simplediagram)**: Una herramienta que utiliza el servidor MCP para generar gráficos Mermaid y PlantUML a partir de lenguaje natural.
 
 Puedes leer más sobre este proceso en mis artículos:
