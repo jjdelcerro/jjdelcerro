@@ -1,10 +1,10 @@
-### 👋 Hola, soy Joaquín del Cerro
+# Joaquín del Cerro | Arquitecto de Software
 
 Soy un **Arquitecto de Software** con una pasión por entender los sistemas desde sus primeros principios. Mi carrera se ha centrado en deconstruir 'cajas negras' para crear soluciones robustas, desde mis inicios con Unix y C hasta mi actual investigación en la integración de **Inteligencia Artificial** en aplicaciones de escritorio.
 
 ---
 
-### 🚀 Mi foco actual: IA y desarrollo de sistemas
+### Mi foco actual: IA y desarrollo de sistemas
 
 Actualmente estoy explorando la integración práctica y teórica de la IA en entornos complejos. Mi trabajo se centra en la filosofía del lenguaje y en construir sistemas que modelan conceptos, no solo correlaciones.
 
@@ -19,7 +19,7 @@ Puedes leer más sobre este proceso en mis artículos:
 
 ---
 
-### 🛠️ Tecnologías y competencias clave
+### Tecnologías y competencias clave
 
 *   **Lenguajes:** Java, Python, C, SQL
 *   **Plataformas y frameworks:** Java Swing, Django, Jython
@@ -29,7 +29,7 @@ Puedes leer más sobre este proceso en mis artículos:
 
 ---
 
-### 🏛️ Liderazgo en Arquitectura: gvSIG Desktop
+### Liderazgo en Arquitectura: gvSIG Desktop
 
 Desde 2005, soy el **Responsable de Arquitectura de gvSIG Desktop**, un proyecto GIS de código abierto de referencia. Mis responsabilidades incluyen:
 
