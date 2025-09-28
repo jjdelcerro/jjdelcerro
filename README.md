@@ -1,38 +1,40 @@
 # Joaquín del Cerro | Arquitecto de Software
 
-Soy un **Arquitecto de Software** con una pasión por entender los sistemas desde sus primeros principios. Mi carrera se ha centrado en deconstruir 'cajas negras' para crear soluciones robustas, desde mis inicios con Unix y C hasta mi actual investigación en la integración de **Inteligencia Artificial** en aplicaciones de escritorio.
+Soy un Arquitecto de Software con una pasión por entender los sistemas desde sus primeros principios. Mi carrera se ha centrado en deconstruir 'cajas negras' para crear soluciones robustas, desde mis inicios con Unix y C hasta mi actual investigación en la integración de Inteligencia Artificial.
+
+Este perfil de GitHub es un resumen. Mi portfolio completo, mis artículos técnicos y mi trayectoria detallada se encuentran en mi sitio personal:
+
+### ➡️ [**https://jjdelcerro.github.io/es/**](https://jjdelcerro.github.io/es/) ⬅️
 
 ---
 
-### Mi foco actual: IA y desarrollo de sistemas
+### Mi Foco Actual: IA y Sistemas de Escritorio
 
-Actualmente estoy explorando la integración práctica y teórica de la IA en entornos complejos. Mi trabajo se centra en la filosofía del lenguaje y en construir sistemas que modelan conceptos, no solo correlaciones.
+Actualmente estoy explorando la integración práctica de LLMs en aplicaciones de escritorio complejas. Mi trabajo se centra en diseñar arquitecturas que sean robustas, eficientes y distribuibles.
 
-Algunos proyectos públicos en esta línea son:
+Algunos de los proyectos públicos en esta línea son:
 
-*   **[Servidor MCP para gvSIG](https://github.com/jjdelcerro/io.github.jjdelcerro.aimcpserver)**: Una implementación del *Model Context Protocol* para conectar LLMs con aplicaciones Java/Swing de forma local y eficiente.
+*   **[Servidor MCP para gvSIG](https://github.com/jjdelcerro/io.github.jjdelcerro.aimcpserver)**: Una implementación del *Model Context Protocol* para conectar LLMs con aplicaciones Java/Swing de forma local.
 *   **[Renderizador de diagramas con IA](https://github.com/jjdelcerro/io.github.jjdelcerro.simplediagram)**: Una herramienta que utiliza el servidor MCP para generar gráficos Mermaid y PlantUML a partir de lenguaje natural.
 
-Puedes leer más sobre este proceso en mis artículos:
-*   [Cómo empecé a hablar con la IA desde gvSIG desktop](https://blog.gvsig.org/2025/09/08/como-empece-a-hablar-con-la-ia-desde-la-aplicacion-de-escritorio-gvsig-desktop/)
-*   [De prototipo a servidor MCP y gemini-cli](https://blog.gvsig.org/2025/09/22/de-prototipo-de-asistente-de-chat-a-servidor-mcp-y-gemini-cli/)
+---
+
+### Explora mi Trabajo
+
+Te invito a profundizar en las diferentes facetas de mi carrera en mi sitio web:
+
+*   **[Mis Artículos](https://jjdelcerro.github.io/es/)**: La página principal de mi blog, donde documento mi investigación en IA, comparto análisis técnicos y exploro nuevas ideas.
+
+*   **[Proyectos Destacados](https://jjdelcerro.github.io/es/proyectos.html)**: Una inmersión técnica en los sistemas clave que he construido, desde un motor de búsqueda propietario en los 90 hasta un sistema de control de versiones para datos GIS.
+
+*   **[Experiencia Profesional](https://jjdelcerro.github.io/es/experiencia.html)**: Mi trayectoria cronológica, mis roles en diferentes empresas y las competencias clave que he adquirido en cada etapa.
+
+*   **[Sobre mi Filosofía](https://jjdelcerro.github.io/es/acerca-de.html)**: El "porqué" detrás de mi trabajo. Una reflexión sobre las ideas, las influencias y la mentalidad que definen mi enfoque como arquitecto de software.
 
 ---
 
-### Tecnologías y competencias clave
+### Tecnologías Principales
 
 *   **Lenguajes:** Java, Python, C, SQL
-*   **Plataformas y frameworks:** Java Swing, Django, Jython
-*   **Bases de Datos:** PostgreSQL, MS SQL Server, db Vista
-*   **Sistemas Operativos:** Linux (Ubuntu, FreeBSD), Unix (HPUX, SCO)
-*   **Áreas de especialización:** Arquitectura de Software, GIS, Sistemas de Control de Versiones, Integración de IA, Sistemas Distribuidos.
-
----
-
-### Liderazgo en Arquitectura: gvSIG Desktop
-
-Desde 2005, soy el **Responsable de Arquitectura de gvSIG Desktop**, un proyecto GIS de código abierto de referencia. Mis responsabilidades incluyen:
-
-*   Ejercer la **gobernanza técnica** en un ecosistema de desarrollo distribuido entre múltiples empresas.
-*   Diseñar y desarrollar componentes críticos, como **[VCSGis](https://blog.gvsig.org/2021/06/20/vcsgis-i-usando-un-control-de-versiones-con-mi-informacion-cartografica-personal/)**, un sistema de control de versiones para grandes volúmenes de datos GIS construido desde cero.
-*   Ser **ponente y formador** en la comunidad, impartiendo talleres de desarrollo en eventos internacionales en España y Latinoamérica.
+*   **Especialización:** Arquitectura de Software, GIS, Sistemas de Escritorio (Swing), Integración de IA, Sistemas Distribuidos, Ingeniería de Datos (ETL).
+*   **Plataformas y BBDD:** Linux (Ubuntu, FreeBSD), Unix (HPUX, SCO), Django, PostgreSQL.```
