@@ -4,7 +4,7 @@ Soy un Arquitecto de Software con una pasión por entender los sistemas desde su
 
 Este perfil de GitHub es un resumen. Mi portfolio completo, mis artículos técnicos y mi trayectoria detallada se encuentran en mi sitio personal:
 
-### ➡️ [**https://jjdelcerro.github.io/es/**](https://jjdelcerro.github.io/es/) ⬅️
+### [**https://jjdelcerro.github.io/es/**](https://jjdelcerro.github.io/es/) 
 
 ---
 
