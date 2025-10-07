@@ -14,8 +14,8 @@ Actualmente estoy explorando la integración práctica de LLMs en aplicaciones d
 
 Algunos de los proyectos públicos en esta línea son:
 
-*   **[Servidor MCP para gvSIG](https://github.com/jjdelcerro/io.github.jjdelcerro.aimcpserver)**: Una implementación del *Model Context Protocol* para conectar LLMs con aplicaciones Java/Swing de forma local.
-*   **[Renderizador de diagramas con IA](https://github.com/jjdelcerro/io.github.jjdelcerro.simplediagram)**: Una herramienta que utiliza el servidor MCP para generar gráficos Mermaid y PlantUML a partir de lenguaje natural.
+*   **[Servidor MCP para gvSIG](https://github.com/jjdelcerro/io.github.jjdelcerro.aimcpserver)**: Una implementación del *Model Context Protocol* para conectar LLMs con la aplicacion gvSIG desktop implementado en java/swing.
+*   **[Renderizador de diagramas mermaid y plantUML](https://github.com/jjdelcerro/io.github.jjdelcerro.simplediagram)**: Una herramienta que utiliza el servidor MCP para generar gráficos Mermaid y PlantUML.
 
 ---
 
