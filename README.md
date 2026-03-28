@@ -34,4 +34,4 @@ Te invito a profundizar en las diferentes facetas de mi carrera en mi sitio web:
 
 *   **Lenguajes:** Java, Python, C, SQL
 *   **Especialización:** Arquitectura de Software, GIS, Sistemas de Escritorio (Swing), Integración de IA, Sistemas Distribuidos, Ingeniería de Datos (ETL).
-*   **Plataformas y BBDD:** Linux (Ubuntu, FreeBSD), Unix (HPUX, SCO), Django, PostgreSQL.```
+*   **Plataformas y BBDD:** Linux (Ubuntu), FreeBSD, Unix (HPUX, SCO), Django, PostgreSQL.
