@@ -12,10 +12,7 @@ Este perfil de GitHub es un resumen. Mi portfolio completo, mis artículos técn
 
 Actualmente estoy explorando la integración práctica de LLMs en aplicaciones de escritorio complejas. Mi trabajo se centra en diseñar arquitecturas que sean robustas, eficientes y distribuibles.
 
-Algunos de los proyectos públicos en esta línea son:
-
-*   **[Servidor MCP para gvSIG](https://github.com/jjdelcerro/io.github.jjdelcerro.aimcpserver)**: Una implementación del *Model Context Protocol* para conectar LLMs con la aplicacion gvSIG desktop implementado en java/swing.
-*   **[Renderizador de diagramas mermaid y plantUML](https://github.com/jjdelcerro/io.github.jjdelcerro.simplediagram)**: Una herramienta que utiliza el servidor MCP para generar gráficos Mermaid y PlantUML.
+El proyecto más reciente en esta línea es **[Noema](https://github.com/jjdelcerro/io.github.jjdelcerro.noema)**. Un agente conversacional autónomo que sirve como laboratorio para probar ideas sobre memoria y percepción proactiva.
 
 ---
 
